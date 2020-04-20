@@ -1,0 +1,21 @@
+{
+    "name": "jrazer/yii2-logger",
+    "description": "Tools to store activity log for Yii2",
+    "keywords": ["yii2", "log", "activity"],
+    "type": "yii2-extension",
+    "require": {
+        "php": ">=5.5.0",
+        "yiisoft/yii2": "2.0.*",
+        "2amigos/yii2-date-picker-widget" : "1.0.*"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master",
+        "phpunit/phpunit": "4.8 - 7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "jrazer\\activityLogger\\": "src",
+            "jrazer\\activityLogger\\test\\": "test"
+        }
+    }
+}

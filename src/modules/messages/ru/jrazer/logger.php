@@ -1,0 +1,20 @@
+<?php
+return [
+    '<strong>{attribute}</strong> has been changed' => '<strong>{attribute}</strong> был изменен',
+    'Action' => 'Действие',
+    'Activity log' => 'Журнал активности',
+    'Created' => 'Создано',
+    'Data' => 'Данные',
+    'Entity' => 'Сущность',
+    'Entity name' => 'Имя объекта',
+    'Environment' => 'Окружение',
+    'ID' => 'ID',
+    'Reset' => 'Сбросить',
+    'User' => 'Пользователь',
+    'User name' => 'Имя пользователя',
+    'created' => 'создал',
+    'from' => 'с',
+    'removed' => 'удалил',
+    'to' => 'на',
+    'updated' => 'обновил',
+];
